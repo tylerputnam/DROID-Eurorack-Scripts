@@ -1,2 +1,2 @@
 # Droid
- Repo for various eurorack Droid Scripts and crazy machines
+ Repo for various eurorack Droid Scripts and self thinking techno machines
